@@ -9,6 +9,7 @@ public class Aula13 {
     public static void main(String[] args) {
         // Exercício 13 da lista referente à essas aulas
         // https://www.slideshare.net/loianeg/curso-java-bsico-exerccios-aulas-11-12-13
+
         Scanner teclado = new Scanner(in);
         float salarioPorHora;
         int horasTrabalhadas;
