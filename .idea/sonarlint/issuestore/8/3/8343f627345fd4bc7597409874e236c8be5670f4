@@ -1,0 +1,33 @@
+
+z	java:S135&"YReduce the total number of break and continue statements in this loop to use at most one.(ÅÉòÿÿÿÿÿ8†±ë¨0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8š½Àì¨0
+8
+java:S3626!"Remove this redundant jump.(ÉŠ©ƒ8øÂì¨0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«Àáä
+N	java:S106"9Replace this use of System.out or System.err by a logger.(â’ì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û¸òÉ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤Û­±øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ìí¶
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Ÿ¼†À8µ‡¸ë¨0
+V
+java:S1119'";Refactor the code to remove this label and the need for it.(Ì®Æîıÿÿÿÿ
+4
+java:S1065'"Remove this unused label.(Ì®Æîıÿÿÿÿ
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(œğóŸşÿÿÿÿ8±¾¸ë¨0
+V
+java:S1119-";Refactor the code to remove this label and the need for it.(ôé‘öûÿÿÿÿ
+4
+java:S1065-"Remove this unused label.(ôé‘öûÿÿÿÿ
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ê‹øÿÿÿÿÿ8ÕÁ¹ë¨0
+W
+java:S11193";Refactor the code to remove this label and the need for it.(éÆ€V8±¾¸ë¨0
+5
+java:S10653"Remove this unused label.(éÆ€V8±¾¸ë¨0
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ÑÖ¾­8Øìºë¨0
+]
+java:S11199";Refactor the code to remove this label and the need for it.(¨ÏœØşÿÿÿÿ8ÕÁ¹ë¨0
+;
+java:S10659"Remove this unused label.(¨ÏœØşÿÿÿÿ8ÕÁ¹ë¨0
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(‡º¹Âüÿÿÿÿ8ùÛ¼ë¨0
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(…Áš8çÿÁì¨0

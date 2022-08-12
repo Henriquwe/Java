@@ -1,11 +1,11 @@
-package youtube.exercicios;
+package youtube.exercicios.aula13;
 
 // Imports:
 import java.util.Scanner;
 
 import static java.lang.System.*;
 
-public class Aula13 {
+public class Ex13 {
     public static void main(String[] args) {
         // Exercício 13 da lista referente à essas aulas
         // https://www.slideshare.net/loianeg/curso-java-bsico-exerccios-aulas-11-12-13

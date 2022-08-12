@@ -1,10 +1,10 @@
-package youtube.exercicios;
+package youtube.exercicios.aula15;
 
 import java.util.Scanner;
 
 import static java.lang.System.*;
 
-public class Aula15 {
+public class Ex12 {
     public static void main(String[] args) {
         // Exercícios 12 da lista de exercícios referente a essa e as anteriores aulas Alt+125 }
         // https://www.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-14-15
