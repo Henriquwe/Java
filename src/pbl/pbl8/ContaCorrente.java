@@ -1,4 +1,4 @@
-package pbl.pbl08;
+package pbl.pbl8;
 
 class ContaCorrente extends Banco {
 	public String senhaCriada;

@@ -1,4 +1,4 @@
-package pbl.pbl08;
+package pbl.pbl8;
 import java.util.Scanner;
 
 public class Program {

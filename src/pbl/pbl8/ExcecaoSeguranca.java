@@ -1,4 +1,4 @@
-package pbl.pbl08;
+package pbl.pbl8;
 
 abstract class ExcecaoSeguranca extends Exception {
 	public ExcecaoSeguranca(String message) {

@@ -1,4 +1,4 @@
-package pbl.pbl08;
+package pbl.pbl8;
 
 class ExcecaoSenhaInvalida extends ExcecaoAutentificacao {
 	public ExcecaoSenhaInvalida(String message) {
