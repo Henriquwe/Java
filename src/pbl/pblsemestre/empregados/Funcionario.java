@@ -1,6 +1,6 @@
-package pbl.pblsemestre.Empregados;
+package pbl.pblsemestre.empregados;
 
-import pbl.pblsemestre.Clubes.Clube;
+import pbl.pblsemestre.clubes.Clube;
 
 abstract class Funcionario {
     private String nome;

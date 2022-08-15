@@ -1,6 +1,6 @@
-package pbl.pblsemestre.Clubes;
+package pbl.pblsemestre.clubes;
 
-import pbl.pblsemestre.Empregados.Jogador;
+import pbl.pblsemestre.empregados.Jogador;
 
 import java.util.ArrayList;
 

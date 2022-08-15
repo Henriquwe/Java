@@ -1,9 +1,9 @@
 package pbl.pblsemestre;
 
-import pbl.pblsemestre.Clubes.Clube;
-import pbl.pblsemestre.Empregados.Jogador;
-import pbl.pblsemestre.Empregados.Tecnico;
-import pbl.pblsemestre.OrgaosReguladores.CBF;
+import pbl.pblsemestre.clubes.Clube;
+import pbl.pblsemestre.empregados.Jogador;
+import pbl.pblsemestre.empregados.Tecnico;
+import pbl.pblsemestre.orgaosreguladores.CBF;
 
 import java.util.Scanner;
 

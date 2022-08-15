@@ -1,6 +1,6 @@
-package pbl.pblsemestre.OrgaosReguladores;
+package pbl.pblsemestre.orgaosreguladores;
 
-import pbl.pblsemestre.Clubes.Clube;
+import pbl.pblsemestre.clubes.Clube;
 
 import java.util.ArrayList;
 

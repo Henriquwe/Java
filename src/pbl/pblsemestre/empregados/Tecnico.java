@@ -1,33 +1,33 @@
-package pbl.pblsemestre.Empregados;
+package pbl.pblsemestre.empregados;
 
-import pbl.pblsemestre.Clubes.Clube;
+import pbl.pblsemestre.clubes.Clube;
 
 import java.util.ArrayList;
 
-public class Jogador extends Funcionario {
+public class Tecnico extends Funcionario {
     private String nome;
-    private String nacionalidade;
     private double salario;
-    private int idade;
     private ArrayList<String> patrocinios;
 
-    public Jogador(String nome, String nacionalidade, double salario, int idade) {
+    public Tecnico(String nome, double salario) {
         this.nome = nome;
-        this.nacionalidade = nacionalidade;
         this.salario = salario;
-        this.idade = idade;
 
         patrocinios = new ArrayList<>();
     }
 
     @Override
     public void associarClube(Clube clube, String nome, double salario) {
-        clube.adicionarTitular(nome, nacionalidade, salario, idade);
+        clube.contratarTecnico(nome, salario);
     }
 
     @Override
     public void assinarPatrocinio(String nomePatrocinio, double pagamento) {
         System.out.println("Patrocínio assinado com:" + nomePatrocinio + " no valor de:" + pagamento);
         patrocinios.add(nomePatrocinio);
+    }
+
+    public void darEntrevista() {
+
     }
 }
