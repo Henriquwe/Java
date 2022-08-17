@@ -1,0 +1,27 @@
+
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Arsenal" 4 times.(ëÌåÖ
+i
+java:S1192"NDefine a constant instead of duplicating this literal "Abel Ferreira" 4 times.(¸ıĞÁúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ıĞÁúÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÃÔŞ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßè©é
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ô“âúÿÿÿÿ
+k	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆøĞÒøÿÿÿÿ
+k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à×÷ıÿÿÿÿ
+@
+java:S5411"*Use the primitive boolean expression here.(Ø ½
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îñë8¸Íó–ª0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ıœÛÏ8¼Íó–ª0
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(¥æ«ƒ8½Íó–ª0
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(Îñë8¾Íó–ª0
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ôıíÎüÿÿÿÿ8ÁÍó–ª0
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(Îñë8ÂÍó–ª0
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(ôıíÎüÿÿÿÿ8ÄÍó–ª0
+S
+java:S1481w"1Remove this unused "AbelFerreira" local variable.(ÆøĞÒøÿÿÿÿ8ÅÍó–ª0
+R
+java:S1481{"0Remove this unused "RonyRustico" local variable.(à×÷ıÿÿÿÿ8ÆÍó–ª0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¬ÑÄÃúÿÿÿÿ8ÆÍó–ª0
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(¬ÑÄÃúÿÿÿÿ8ÇÍó–ª0
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(œüÔ‚ıÿÿÿÿ8ÉÍó–ª0

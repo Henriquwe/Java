@@ -1,0 +1,12 @@
+
+K
+java:S11410"5Extract this nested try block into a separate method.(›ı×æ
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥âŠ”úÿÿÿÿ
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¾¼şÿÿÿÿ
+f	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù•­™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡‹ïî
+G
+java:S1481",Remove this unused "success" local variable.(Œ¯ôıÿÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ŞÅ‘Ö
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¬¯Åÿøÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(¯¨¤İøÿÿÿÿ

@@ -23,5 +23,22 @@ public class Aula20 {
             }
             System.out.println();
         }
+
+        // Matrizes de 3 DIMENSÕES
+        // Nomear de acordo com cada elemento dos vetores únicos, no plural. Ex: matrizNotasFaltasPresencas
+        int linhas = 3;
+        int colunas = 3;
+        int espacos = 3;
+        int[][][] matrizLinhasColunasEspacos = new int[linhas][colunas][espacos];
+
+        for (int i = 0; i < matrizLinhasColunasEspacos.length; i++) {
+            for (int j = 0; j < matrizLinhasColunasEspacos[i].length; j++) {
+                for (int k = 0; k < matrizLinhasColunasEspacos[j].length; k++) {
+                    System.out.println("Posição [" + i + "]" + "["+ j + "]" + "[" + k + "]"
+                            + "Valor: " + matrizLinhasColunasEspacos[i][j][k]);
+                }
+            }
+            System.out.println();
+        }
     }
 }
