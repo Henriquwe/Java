@@ -45,10 +45,6 @@ W
 'src/youtube/exercicios/aula15/Ex12.java,4\4\445ec9785a159b19ecf2bbb5e08ecf3ad9f40556
 W
 'src/youtube/exercicios/aula13/Ex13.java,d\d\dddda7b9ea61a86b6a8ccd33fd737749173a2c8b
-V
-&src/youtube/exercicios/aula19/Ex1.java,3\e\3e7e1ad320c09fba84e6cc14d6e7fd3f82ca3e6d
-V
-&src/youtube/exercicios/aula19/Ex2.java,9\a\9ad8f90db0dadafedd785dee53ffab570e42dd38
 W
 'src/youtube/exercicios/aula19/Ex31.java,f\d\fda9905b9cbd30ff92b3ee149f61e5887c4dcc12
 V

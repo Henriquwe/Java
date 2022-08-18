@@ -40,5 +40,9 @@ public class Aula20 {
             }
             System.out.println();
         }
+
+        // Matriz Irregular
+        int[][] arrayIrregular = new int[3][];
+
     }
 }
