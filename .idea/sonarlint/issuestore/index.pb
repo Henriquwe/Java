@@ -37,8 +37,6 @@ G
 src/pbl/pbl8/Banco.java,4\9\49880dc2c3f78691c1d40b732f3cf9e9214ec546
 N
 src/pbl/pbl6/Comissionado.java,e\1\e178b064ad18f9165b9037f27be26fddd56277ae
-F
-src/pbl/pbl1/PBL1.java,6\0\6064ad9df9569f9ee114256be0eafd0fdb77e098
 H
 src/pbl/pbl4/AppBeb.java,6\9\698c76f49acc28cbff4102ebbc27b080c8a9058e
 W
