@@ -11,6 +11,8 @@ k	java:S117w"QRename this local variable to match the regular expression '^[a-
 k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à×÷ıÿÿÿÿ
 @
 java:S5411"*Use the primitive boolean expression here.(Ø ½
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8úÇãµ­0
 U	java:S106"9Replace this use of System.out or System.err by a logger.(Îñë8¸Íó–ª0
 U	java:S106&"9Replace this use of System.out or System.err by a logger.(ıœÛÏ8¼Íó–ª0
 U	java:S106+"9Replace this use of System.out or System.err by a logger.(¥æ«ƒ8½Íó–ª0

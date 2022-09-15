@@ -11,8 +11,6 @@ M
 src/youtube/fonte/Aula16.java,5\a\5a4357bdcf03ed142c50711e61bf66dfab20fd8e
 M
 src/youtube/fonte/Aula19.java,3\5\359522d8f784f0a33cc257dfa3fe0b4f5f8c0b92
-X
-(src/pbl/pblsemestre/FootballManager.java,d\4\d4ee241cd2f110f8bfec5a1eb8ab9256978c13dc
 [
 +src/pbl/pblsemestre/empregados/Jogador.java,f\1\f1ba3be4a98ef68fd39b3ab7de2c721abd0b0247
 [
@@ -47,3 +45,21 @@ W
 'src/youtube/exercicios/aula19/Ex31.java,f\d\fda9905b9cbd30ff92b3ee149f61e5887c4dcc12
 V
 &src/youtube/exercicios/aula19/Ex3.java,2\1\2112653adc75ad564822a40d1cbea000aeeb4e56
+F
+src/pbl/pbl1/PBL1.java,6\0\6064ad9df9569f9ee114256be0eafd0fdb77e098
+V
+&src/youtube/exercicios/aula19/Ex1.java,3\e\3e7e1ad320c09fba84e6cc14d6e7fd3f82ca3e6d
+c
+3src/youtube/exercicios/aula20/ExArrayIrregular.java,1\c\1c2705a5a934eb5a5678e7c335a91305f0412340
+V
+&src/youtube/exercicios/aula19/Ex2.java,9\a\9ad8f90db0dadafedd785dee53ffab570e42dd38
+F
+src/pbl/pbl2/PBL2.java,4\5\45b0a2d10bae983f61e43bf10dd6f8a199b7927e
+X
+(src/pbl/pblsemestre/FootballManager.java,d\4\d4ee241cd2f110f8bfec5a1eb8ab9256978c13dc
+L
+src/faculdade/cdfs/CDFS.java,a\e\ae81a3fea513049d3d39da8cbc746b007475aaa4
+M
+src/youtube/fonte/Aula20.java,0\1\0116c7bacf0886d9385896fb8646ed669e47dd39
+F
+src/crud_sql/Main.java,3\7\37071b9ea7b39bf808c6b9c87dc39256435717bc

@@ -1,0 +1,13 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "notasAlunos".(ïÄÆ
+]
+java:S1854-"BRemove this useless assignment to local variable "arrayIrregular".(–æè—ÿÿÿÿÿ
+F
+java:S1481"0Remove this unused "notasAlunos" local variable.(ïÄÆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(âõÅÀ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(‡†É&
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N
+java:S1481-"3Remove this unused "arrayIrregular" local variable.(–æè—ÿÿÿÿÿ
