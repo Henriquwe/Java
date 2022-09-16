@@ -57,8 +57,6 @@ F
 src/pbl/pbl2/PBL2.java,4\5\45b0a2d10bae983f61e43bf10dd6f8a199b7927e
 X
 (src/pbl/pblsemestre/FootballManager.java,d\4\d4ee241cd2f110f8bfec5a1eb8ab9256978c13dc
-L
-src/faculdade/cdfs/CDFS.java,a\e\ae81a3fea513049d3d39da8cbc746b007475aaa4
 M
 src/youtube/fonte/Aula20.java,0\1\0116c7bacf0886d9385896fb8646ed669e47dd39
 F
